@@ -8,3 +8,8 @@ focus --class sut.sa.pizza.web.IndexComposer
  composer --class ~.web.IndexComposer --zul index.zul
 exit
 // Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2556-10-24 03:01:21
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2556-10-24 03:07:28
+focus --class sut.sa.pizza.web.SendComposer
+composer --class ~.web.sendComposer --zul send.zul
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2556-10-24 03:07:52
