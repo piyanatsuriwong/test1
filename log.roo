@@ -13,3 +13,8 @@ focus --class sut.sa.pizza.web.SendComposer
 composer --class ~.web.sendComposer --zul send.zul
 exit
 // Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2556-10-24 03:07:52
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2556-10-24 03:10:20
+focus --class sut.sa.pizza.web.RegitComposer
+composer --class ~.web.regitComposer --zul regit.zul
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2556-10-24 03:10:43
