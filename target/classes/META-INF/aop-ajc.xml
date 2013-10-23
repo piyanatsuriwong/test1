@@ -1,0 +1,6 @@
+<aspectj>
+<aspects>
+<aspect name="sut.sa.pizza.web.IndexComposer_Roo_Composer"/>
+</aspects>
+</aspectj>
+

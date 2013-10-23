@@ -1,0 +1,10 @@
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2556-10-24 02:55:57
+project --topLevelPackage sut.sa.pizza
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2556-10-24 03:00:07
+osgi start --url http://zk-roo.googlecode.com/files/org.zkoss.zk.roo.addon-1.0.0.M4.jar
+ persistence setup --provider HIBERNATE --database H2_IN_MEMORY
+web zk setup
+focus --class sut.sa.pizza.web.IndexComposer
+ composer --class ~.web.IndexComposer --zul index.zul
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2556-10-24 03:01:21
